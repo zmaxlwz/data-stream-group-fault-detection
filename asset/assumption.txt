@@ -1,0 +1,15 @@
+
+
+
+assumption:
+
+**asset all record insert into assets table, and the assets table already exists
+**asset map record insert into assets_map_complete table, and the assets_map_complete table already exists
+**the 'streets' table already exists,   attributes: street_id, street_name
+**the street_id attribute in streets table is serial type
+**the 'asset_neighbors' table already exists
+**the 'global_asset_neighbors' table already exists
+
+
+
+

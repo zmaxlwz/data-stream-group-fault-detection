@@ -1,0 +1,9 @@
+{
+        "pg_dbname": "temp",
+        "pg_username": "wenzhao",
+        "pg_password": "zmax1987",
+        "pg_host": "localhost",
+        "pg_port": "5432",
+        "mongo_dbname": "test",
+        "mongo_collection_name": "caba_group_log"
+}

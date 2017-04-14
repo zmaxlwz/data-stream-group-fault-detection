@@ -1,0 +1,11 @@
+
+
+
+assumption:
+
+**the 'faults' table already exists, fault stream records will be inserted into the 'faults' table
+**the 'fault_groups' table already exists, the fault group states will be kept in the 'fault_groups' table
+
+
+
+
